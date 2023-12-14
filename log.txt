@@ -1,0 +1,165 @@
+Camera resolution: 1280 x 720
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0.157114y_ang = 0.09641
+Message sent successfully
+x_ang = 0.151814y_ang = 0.0922697
+Message sent successfully
+x_ang = 0.146937y_ang = 0.0893124
+Message sent successfully
+x_ang = 0.144181y_ang = 0.0866507
+Message sent successfully
+x_ang = 0.14206y_ang = 0.0845806
+Message sent successfully
+x_ang = 0.140364y_ang = 0.0828062
+Message sent successfully
+x_ang = 0.138456y_ang = 0.0816232
+Message sent successfully
+x_ang = 0.136972y_ang = 0.080736
+Message sent successfully
+x_ang = 0.135275y_ang = 0.0804403
+Message sent successfully
+x_ang = 0.134215y_ang = 0.0789616
+Message sent successfully
+x_ang = 0.133367y_ang = 0.0801445
+Message sent successfully
+x_ang = 0.132095y_ang = 0.0813275
+Message sent successfully
+x_ang = 0.131247y_ang = 0.0822147
+Message sent successfully
+x_ang = 0.128278y_ang = 0.0825104
+Message sent successfully
+x_ang = 0.121069y_ang = 0.0789616
+Message sent successfully
+x_ang = 0.110044y_ang = 0.0771872
+Message sent successfully
+x_ang = 0.104107y_ang = 0.0757085
+Message sent successfully
+x_ang = 0.104319y_ang = 0.0760042
+Message sent successfully
+x_ang = 0.105803y_ang = 0.0724554
+Message sent successfully
+x_ang = 0.105379y_ang = 0.0697938
+Message sent successfully
+x_ang = 0.103471y_ang = 0.0677236
+Message sent successfully
+x_ang = 0.101987y_ang = 0.0653577
+Message sent successfully
+x_ang = 0.10029y_ang = 0.0638791
+Message sent successfully
+x_ang = 0.0960497y_ang = 0.0641748
+Message sent successfully
+x_ang = 0.0890527y_ang = 0.0656535
+Message sent successfully
+x_ang = 0.0818437y_ang = 0.0677236
+Message sent successfully
+x_ang = 0.0767549y_ang = 0.0686108
+Message sent successfully
+x_ang = 0.0729384y_ang = 0.0715682
+Message sent successfully
+x_ang = 0.070394y_ang = 0.0709767
+Message sent successfully
+x_ang = 0.0680617y_ang = 0.0697938
+Message sent successfully
+x_ang = 0.0657294y_ang = 0.0689066
+Message sent successfully
+x_ang = 0.063397y_ang = 0.0703853
+Message sent successfully
+x_ang = 0.0621249y_ang = 0.0721597
+Message sent successfully
+x_ang = 0.0619128y_ang = 0.0727511
+Message sent successfully
+x_ang = 0.0617008y_ang = 0.0730469
+Message sent successfully
+x_ang = 0.0614888y_ang = 0.0745256
+Message sent successfully
+x_ang = 0.063185y_ang = 0.0765957
+Message sent successfully
+x_ang = 0.0695459y_ang = 0.0822147
+Message sent successfully
+x_ang = 0.0788752y_ang = 0.0887209
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
+x_ang = 0y_ang = 0
+Message sent successfully
